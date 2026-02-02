@@ -1,6 +1,10 @@
 ## Global COVID-19 Data Analysis and Visualization
 This project provides an in-depth analysis of the global COVID-19 pandemic using data sourced from Worldometer and other curated datasets. The analysis focuses on identifying trends, comparing country-level impacts, and visualizing critical health metrics using Python's data science ecosystem.
 
+<img width="534" height="452" alt="Screenshot 2026-02-02 at 13 32 06" src="https://github.com/user-attachments/assets/492aa759-1b52-46f6-a62f-7c006122c11c" />
+<img width="542" height="452" alt="Screenshot 2026-02-02 at 13 32 28" src="https://github.com/user-attachments/assets/64396fd8-700b-46ca-866b-b6439bec7620" />
+
+
 ## 📊 Key Features & Analysis
 
 ### 1. Global Metrics & Trends
